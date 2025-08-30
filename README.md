@@ -4,9 +4,6 @@ Alumnas: Victoria Cossi Mazza y Caterina Marquez.
 
 Este es un trabajo práctico realizado también en la materia Programación Orientada a Objetos, donde con nuestro programa simulamos carreras de autos. 
 
-Se pueden ver las escuderías y los distintos pilotos filtrados por escudería.
-También está la simulación de la carrera, que tiene una vuelta rápida en la que corren veinte pilotos. De los cuales los diez con menor tiempo pasan a la carrera de tres vueltas, luego pudiéndose visualizar los ganadores y el podio. 
-
 ---
 
 ## 🫧 Características
@@ -14,3 +11,10 @@ También está la simulación de la carrera, que tiene una vuelta rápida en la 
 - Utilización de clases y sus relaciones
 - Intencionalidad en la estructura del programa
 - Diagrama de clases
+
+---
+
+## 🔮 Funcionalidades
+- Ver escuderias y sus corredores
+- Simular una vuelta rápida, en donde corren veinte pilotos
+- Los diez mas rápidos pasan a la carrera, donde se simulan tres vueltas, pudiendose visualizar los tiempos de cada uno, el ganador, y varios filtros más.

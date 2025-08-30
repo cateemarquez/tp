@@ -3,12 +3,14 @@
 Alumnas: Victoria Cossi Mazza y Caterina Marquez.
 
 Este es un trabajo práctico realizado también en la materia Programación Orientada a Objetos, donde con nuestro programa simulamos carreras de autos. 
-Fuimos aumentando la complejidad y mejorando la estructura, ya que acá utilizamos varias clases, herencia y polimorfismo.
+
+Se pueden ver las escuderías y los distintos pilotos filtrados por escudería.
+También está la simulación de la carrera, que tiene una vuelta rápida en la que corren veinte pilotos. De los cuales los diez con menor tiempo pasan a la carrera de tres vueltas, luego pudiéndose visualizar los ganadores y el podio. 
 
 ---
 
 ## 🫧 Características
 - Java orientado a objetos
-- Mayor complejidad y dominio de clases
+- Utilización de clases y sus relaciones
 - Intencionalidad en la estructura del programa
 - Diagrama de clases

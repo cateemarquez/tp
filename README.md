@@ -1,5 +1,14 @@
-<h2>Simulación de carreras de Formula 1</h2>
-<p>Materia: Programación orientada a objetos</p>
-<p>Alumnas: Victoria Cossi Mazza y Caterina Marquez</p>
-<h3>Diagrama de clases:</h3>
-<img src="Objetos - Formula 1.png" width=900 height=1100>
+# 📝 Simulador de carreras de Fórmula 1 | 2do cuatrimestre
+
+Alumnas: Victoria Cossi Mazza y Caterina Marquez.
+
+Este es un trabajo práctico realizado también en la materia Programación Orientada a Objetos, donde con nuestro programa simulamos carreras de autos. 
+Fuimos aumentando la complejidad y mejorando la estructura, ya que acá utilizamos varias clases, herencia y polimorfismo.
+
+---
+
+## 🫧 Características
+- Java orientado a objetos
+- Mayor complejidad y dominio de clases
+- Intencionalidad en la estructura del programa
+- Diagrama de clases
